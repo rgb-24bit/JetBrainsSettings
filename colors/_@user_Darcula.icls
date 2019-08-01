@@ -1,0 +1,12 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2019-05-13T19:08:23</property>
+    <property name="ide">Idea</property>
+    <property name="ideVersion">2019.1.2.0.0</property>
+    <property name="modified">2019-05-13T19:12:28</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="eeccff" />
+  </colors>
+</scheme>
