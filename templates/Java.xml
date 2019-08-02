@@ -1,10 +1,10 @@
 <templateSet group="Java">
-  <template name="SuiteTest" value="@RunWith(Suite.class)&#10;@Suite.SuiteClasses({&#10;  $END$&#10;})" toReformat="false" toShortenFQNames="true">
+  <template name="SuiteTest" value="@RunWith(Suite.class)&#10;@Suite.SuiteClasses({&#10;  $END$&#10;})" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="SpringTest" value="@RunWith(SpringRunner.class)&#10;@SpringBootTest(classes = TestStarter.class)" toReformat="false" toShortenFQNames="true">
+  <template name="SpringTest" value="@RunWith(SpringRunner.class)&#10;@SpringBootTest(classes = TestStarter.class)" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
