@@ -14,7 +14,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="AMP" value="@ApiModelProperty(value = &quot;$END$&quot;, required = true)" toReformat="false" toShortenFQNames="true">
+  <template name="AMP" value="@ApiModelProperty(value = &quot;$END$&quot;, required = true)" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
