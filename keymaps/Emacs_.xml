@@ -7,6 +7,9 @@
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="ChangeKeymap">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
   <action id="ChangesView.GroupBy.Directory" />
   <action id="ChoosePrevSubsequentPropertyValueEditorAction">
     <keyboard-shortcut first-keystroke="ctrl alt a" />
