@@ -73,6 +73,9 @@
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="ctrl meta f" />
   </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="meta l" />
+  </action>
   <action id="XDebugger.MoveWatchDown">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
