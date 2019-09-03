@@ -1,8 +1,8 @@
 <toolSet name="External Tools">
   <tool name="Editor Emacs" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="emacsclient -c" />
-      <option name="PARAMETERS" value="$FilePath$" />
+      <option name="COMMAND" value="/usr/local/Cellar/emacs-mac/emacs-26.3-z-mac-7.7/bin/emacsclient" />
+      <option name="PARAMETERS" value="-c $FilePath$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
