@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="trigger" />
       <item value="增加" />
       <item value="increment" />
       <item value="annotate" />
