@@ -40,6 +40,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl u" />
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
+  <action id="EditorToggleStickySelection">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+  </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
     <keyboard-shortcut first-keystroke="shift ctrl alt period" />
@@ -83,6 +86,9 @@
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
   <action id="TodoViewGroupByShowPackages" />
+  <action id="ToggleBookmark2">
+    <keyboard-shortcut first-keystroke="shift ctrl 2" />
+  </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="ctrl meta f" />
   </action>
