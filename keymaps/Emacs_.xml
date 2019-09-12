@@ -31,15 +31,24 @@
   <action id="EditorForwardParagraphWithSelection" />
   <action id="EditorNextWordWithSelection" />
   <action id="EditorPreviousWordWithSelection" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
+    <keyboard-shortcut first-keystroke="ctrl alt period" />
+  </action>
   <action id="EditorSplitLine" />
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="shift ctrl u" />
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt period" />
+  </action>
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoCustomRegion" />
   <action id="JumpToLastChange" />
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
