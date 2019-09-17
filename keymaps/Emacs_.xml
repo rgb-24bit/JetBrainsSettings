@@ -52,6 +52,10 @@
   </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoCustomRegion" />
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="alt g" />
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="meta g" />
+  </action>
   <action id="JumpToLastChange" />
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
