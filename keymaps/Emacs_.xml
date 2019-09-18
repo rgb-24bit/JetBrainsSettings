@@ -51,6 +51,9 @@
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
   <action id="GotoCustomRegion" />
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="alt g" />
