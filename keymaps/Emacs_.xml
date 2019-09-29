@@ -38,7 +38,6 @@
   </action>
   <action id="EditorSplitLine" />
   <action id="EditorToggleCase">
-    <keyboard-shortcut first-keystroke="shift ctrl u" />
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
   <action id="EditorToggleStickySelection">
@@ -57,7 +56,7 @@
   </action>
   <action id="GotoCustomRegion" />
   <action id="GotoImplementation">
-    <keyboard-shortcut first-keystroke="ctrl alt u" />
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="alt g" />
@@ -94,6 +93,7 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
+  <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
   <action id="ShowUmlDiagramPopup" />
