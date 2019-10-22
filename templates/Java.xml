@@ -1,22 +1,27 @@
 <templateSet group="Java">
-  <template name="SuiteTest" value="@RunWith(Suite.class)&#10;@Suite.SuiteClasses({&#10;  $END$&#10;})" description="" toReformat="false" toShortenFQNames="true">
+  <template name="SuiteTest" value="@RunWith(Suite.class)&#10;@Suite.SuiteClasses({&#10;  $END$&#10;})" description="Suite test" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="SpringTest" value="@RunWith(SpringRunner.class)&#10;@SpringBootTest(classes = TestStarter.class)" description="" toReformat="false" toShortenFQNames="true">
+  <template name="SpringTest" value="@RunWith(SpringRunner.class)&#10;@SpringBootTest(classes = TestStarter.class)" description="Run with spring" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="MockTest" value="@RunWith(MockitoJUnitRunner.class)" description="" toReformat="false" toShortenFQNames="true">
+  <template name="MockTest" value="@RunWith(MockitoJUnitRunner.class)" description="Run with mockito" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="AMP" value="@ApiModelProperty(value = &quot;$END$&quot;, required = true)" description="" toReformat="false" toShortenFQNames="true">
+  <template name="AMP" value="@ApiModelProperty(value = &quot;$END$&quot;, required = true)" description="API Model Property" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="nofmt" value="// @formatter: off&#10;$END$&#10;// @formatter: on" description="Not formatter" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>
