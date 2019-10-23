@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inspection" />
       <item value="* Used by {@link ExceptionTranslationFilter} to commence an authentication scheme." />
       <item value="Jwt Authentication Entry Point" />
       <item value="Abnomal Order" />
