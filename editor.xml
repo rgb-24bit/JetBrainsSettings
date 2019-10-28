@@ -16,6 +16,7 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
+    <option name="USE_SOFT_WRAPS" value="" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_BLOCK_CURSOR" value="true" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
