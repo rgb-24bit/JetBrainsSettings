@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="property" />
       <item value="Commence" />
       <item value="inspection" />
       <item value="* Used by {@link ExceptionTranslationFilter} to commence an authentication scheme." />
@@ -38,7 +39,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="ENGLISH" value="30" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
