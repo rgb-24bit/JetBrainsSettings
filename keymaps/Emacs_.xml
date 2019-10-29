@@ -33,6 +33,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt y" />
   </action>
   <action id="EditorForwardParagraphWithSelection" />
+  <action id="EditorKillRingSave">
+    <keyboard-shortcut first-keystroke="alt w" />
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
   <action id="EditorNextWordWithSelection" />
   <action id="EditorPreviousWordWithSelection" />
   <action id="EditorSelectWord">
