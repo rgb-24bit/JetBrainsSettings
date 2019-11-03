@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* 提供常用日清时间格式对应的 DateTimeFormatter" />
       <item value="property" />
       <item value="Commence" />
       <item value="inspection" />
@@ -38,8 +39,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="CHINESE" value="31" />
+        <entry key="ENGLISH" value="31" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
