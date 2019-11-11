@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Generates getters for all fields, a useful toString method, and hashCode and equals implementations that check * all non-transient fields. Will also generate setters for all non-final fields, as well as a constructor. * &lt;p&gt; * Equivalent to {@code @Getter @Setter @RequiredArgsConstructor @ToString @EqualsAndHashCode}. * &lt;p&gt; * Complete documentation is found at &lt;a href=&quot;https://projectlombok.org/features/Data&quot;&gt;the project lombok features page for &amp;#64;Data&lt;/a&gt;." />
+      <item value="all" />
+      <item value="平台自身供应商商品编号" />
+      <item value="接口商品规格文本" />
       <item value="* 提供常用日清时间格式对应的 DateTimeFormatter" />
       <item value="property" />
       <item value="Commence" />
@@ -39,8 +43,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="31" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="37" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
