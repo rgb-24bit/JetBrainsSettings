@@ -1,0 +1,15 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="indent">
+      <action id="EditorDown" />
+      <action id="EditorLineStart" />
+      <action id="EmacsStyleIndent" />
+      <action id="EditorDown" />
+      <action id="GotoAction" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="ENTER" />
+    </macro>
+  </component>
+</application>
