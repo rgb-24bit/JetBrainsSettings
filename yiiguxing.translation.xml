@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MEDIUM" />
+      <item value="DASHED" />
+      <item value="DOTTED" />
+      <item value="THICK" />
       <item value="* Marks this thread as either a {@linkplain #isDaemon daemon} thread * or a user thread. The Java Virtual Machine exits when the only * threads running are all daemon threads. * * &lt;p&gt; This method must be invoked before the thread is started." />
       <item value="* Corresponds to the `produces` field of the operations under this resource. * &lt;p&gt; * Takes in comma-separated values of content types. * For example, &quot;application/json, application/xml&quot; would suggest the operations * generate JSON and XML output. * &lt;p&gt; * For JAX-RS resources, this would automatically take the value of the {@code @Produces} * annotation if such exists. It can also be used to override the {@code @Produces} values * for the Swagger documentation." />
       <item value="Implicitly sets a tag for the operations, legacy support (read description)." />
@@ -47,8 +51,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="44" />
+        <entry key="ENGLISH" value="45" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
