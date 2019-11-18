@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You can specify whether the content of merged cells should be considered or ignored. * Default is to ignore merged cells. *" />
+      <item value="This process can be relatively slow on large sheets, so this should * normally only be called once per column, at the end of your * processing." />
       <item value="* Set the foreground fill color represented as a {@link XSSFColor} value. * &lt;br&gt; * &lt;i&gt;Note: Ensure Foreground color is set prior to background color.&lt;/i&gt;" />
       <item value="foreground" />
       <item value="成员" />
@@ -49,13 +51,11 @@
       <item value="拷贝对象同名属性" />
       <item value="trigger" />
       <item value="增加" />
-      <item value="increment" />
-      <item value="annotate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
