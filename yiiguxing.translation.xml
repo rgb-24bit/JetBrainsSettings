@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pecifies the time, in seconds, between client requests before the * servlet container will invalidate this session. A zero or negative time * indicates that the session should never timeout." />
       <item value="一般" />
       <item value="/** * The custom pattern to use to format the field. * &lt;p&gt;Defaults to empty String, indicating no custom pattern String has been specified. * Set this attribute when you wish to format your field in accordance with a custom * date time pattern not represented by a style or ISO format. * &lt;p&gt;Note: This pattern follows the original {@link java.text.SimpleDateFormat} style, * as also supported by Joda-Time, with strict parsing semantics towards overflows * (e.g. rejecting a Feb 29 value for a non-leap-year). As a consequence, 'yy' * characters indicate a year in the traditional style, not a &quot;year-of-era&quot; as in the * {@link java.time.format.DateTimeFormatter} specification (i.e. 'yy' turns into 'uu' * when going through that {@code DateTimeFormatter} with strict resolution mode). */" />
       <item value="You can specify whether the content of merged cells should be considered or ignored. * Default is to ignore merged cells. *" />
@@ -50,12 +51,11 @@
       <item value="Tell the subclass to refresh the internal bean factory." />
       <item value="* Validate that each of the properties specified by * {@link #setRequiredProperties} is present and resolves to a * non-{@code null} value." />
       <item value="Class Path Scanning Candidate Component Provider" />
-      <item value="拷贝对象同名属性" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="ENGLISH" value="52" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
