@@ -12,6 +12,10 @@
       </value>
     </option>
   </JavaCodeStyleSettings>
+  <Properties>
+    <option name="SPACES_AROUND_KEY_VALUE_DELIMITER" value="true" />
+    <option name="KEEP_BLANK_LINES" value="true" />
+  </Properties>
   <XML>
     <option name="XML_KEEP_WHITESPACES" value="true" />
   </XML>
