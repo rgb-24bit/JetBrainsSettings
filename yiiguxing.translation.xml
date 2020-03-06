@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="predecessor" />
       <item value="preserve" />
       <item value="* A method annotated @CallerSensitive is sensitive to its calling class, * via {@link sun.reflect.Reflection#getCallerClass Reflection.getCallerClass}, * or via some equivalent." />
       <item value="represent" />
@@ -50,12 +51,11 @@
       <item value="synchronization" />
       <item value="suspend" />
       <item value="least" />
-      <item value="eldest" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="62" />
         <entry key="BULGARIAN" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
