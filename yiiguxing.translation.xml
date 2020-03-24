@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="recommended" />
       <item value="环境变量" />
       <item value="校验" />
       <item value="predecessor" />
@@ -50,12 +51,11 @@
       <item value="indicate" />
       <item value="serial" />
       <item value="DataSource transaction object, representing a ConnectionHolder." />
-      <item value="synchronization" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="64" />
         <entry key="BULGARIAN" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
