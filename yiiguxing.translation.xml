@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="环境变量" />
       <item value="校验" />
       <item value="predecessor" />
       <item value="preserve" />
@@ -50,12 +51,11 @@
       <item value="serial" />
       <item value="DataSource transaction object, representing a ConnectionHolder." />
       <item value="synchronization" />
-      <item value="suspend" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="63" />
         <entry key="BULGARIAN" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
