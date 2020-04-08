@@ -46,6 +46,7 @@
   <action id="EditorSplitLine" />
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="meta u" />
+    <keyboard-shortcut first-keystroke="alt u" />
   </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
@@ -111,6 +112,9 @@
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
   <action id="ShowUmlDiagramPopup" />
+  <action id="SynchronizeCurrentFile">
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="u" />
+  </action>
   <action id="TodoViewGroupByShowPackages" />
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="ctrl meta f" />
