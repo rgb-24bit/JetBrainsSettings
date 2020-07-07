@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Supplier" />
       <item value="Measurement" />
       <item value="Instrument" />
       <item value="recommended" />
@@ -50,12 +51,11 @@
       <item value="appropriate" />
       <item value="* Indicates that the package containing the annotated class should be registered with * {@link AutoConfigurationPackages}." />
       <item value="The value may indicate a suggestion for a logical component name, * to be turned into a Spring bean in case of an autodetected component." />
-      <item value="indicate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="67" />
         <entry key="BULGARIAN" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
