@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Activation Email Info" />
       <item value="verification" />
       <item value="Trust Login Mark" />
       <item value="Trust Login Verify" />
@@ -50,12 +51,11 @@
       <item value="* Generates getters for all fields, a useful toString method, and hashCode and equals implementations that check * all non-transient fields. Will also generate setters for all non-final fields, as well as a constructor. * &lt;p&gt; * Equivalent to {@code @Getter @Setter @RequiredArgsConstructor @ToString @EqualsAndHashCode}. * &lt;p&gt; * Complete documentation is found at &lt;a href=&quot;https://projectlombok.org/features/Data&quot;&gt;the project lombok features page for &amp;#64;Data&lt;/a&gt;." />
       <item value="all" />
       <item value="平台自身供应商商品编号" />
-      <item value="接口商品规格文本" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="78" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="79" />
         <entry key="BULGARIAN" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
