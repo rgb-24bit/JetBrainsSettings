@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Folds either the left or the right side of this disjunction." />
       <item value="underlying" />
       <item value="disjunction" />
       <item value="emit metrics counter &amp; latency" />
@@ -50,12 +51,11 @@
       <item value="inspection" />
       <item value="* Used by {@link ExceptionTranslationFilter} to commence an authentication scheme." />
       <item value="Jwt Authentication Entry Point" />
-      <item value="Abnomal Order" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="73" />
         <entry key="BULGARIAN" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
