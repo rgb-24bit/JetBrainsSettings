@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="individual" />
       <item value="Identity Provider Factory" />
       <item value="Desensitize Util" />
       <item value="Activation Email Info" />
@@ -50,11 +51,10 @@
       <item value="* Corresponds to the `produces` field of the operations under this resource. * &lt;p&gt; * Takes in comma-separated values of content types. * For example, &quot;application/json, application/xml&quot; would suggest the operations * generate JSON and XML output. * &lt;p&gt; * For JAX-RS resources, this would automatically take the value of the {@code @Produces} * annotation if such exists. It can also be used to override the {@code @Produces} values * for the Swagger documentation." />
       <item value="Implicitly sets a tag for the operations, legacy support (read description)." />
       <item value="* Indicates that an annotation type is automatically inherited. If * an Inherited meta-annotation is present on an annotation type * declaration, and the user queries the annotation type on a class * declaration, and the class declaration has no annotation for this type, * then the class's superclass will automatically be queried for the * annotation type. This process will be repeated until an annotation for this * type is found, or the top of the class hierarchy (Object) * is reached. If no superclass has an annotation for this type, then * the query will indicate that the class in question has no such annotation. * * &lt;p&gt;Note that this meta-annotation type has no effect if the annotated * type is used to annotate anything other than a class. Note also * that this meta-annotation only causes annotations to be inherited * from superclasses; annotations on implemented interfaces have no * effect." />
-      <item value="* Generates getters for all fields, a useful toString method, and hashCode and equals implementations that check * all non-transient fields. Will also generate setters for all non-final fields, as well as a constructor. * &lt;p&gt; * Equivalent to {@code @Getter @Setter @RequiredArgsConstructor @ToString @EqualsAndHashCode}. * &lt;p&gt; * Complete documentation is found at &lt;a href=&quot;https://projectlombok.org/features/Data&quot;&gt;the project lombok features page for &amp;#64;Data&lt;/a&gt;." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
+        <entry key="CHINESE" value="80" />
         <entry key="ENGLISH" value="80" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
