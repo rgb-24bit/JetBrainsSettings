@@ -116,6 +116,9 @@
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
   <action id="ShowUmlDiagramPopup" />
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+  </action>
   <action id="SynchronizeCurrentFile">
     <keyboard-shortcut first-keystroke="escape" second-keystroke="u" />
   </action>
