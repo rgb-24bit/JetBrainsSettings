@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Auto Refresh Lark User Access Token" />
+      <item value="Dispose Old User Encrypt" />
+      <item value="Dispose Old Department Encrypt" />
+      <item value="Sync Leader Tree" />
+      <item value="Sync Department Tree" />
+      <item value="Sync People Department" />
+      <item value="Sync People New" />
+      <item value="Sync People All" />
+      <item value="Check Data Async" />
       <item value="Init Encrypt Key" />
       <item value="Unmarshal By Loader" />
       <item value="Valid" />
@@ -42,20 +51,11 @@
       <item value="pecifies the time, in seconds, between client requests before the * servlet container will invalidate this session. A zero or negative time * indicates that the session should never timeout." />
       <item value="一般" />
       <item value="/** * The custom pattern to use to format the field. * &lt;p&gt;Defaults to empty String, indicating no custom pattern String has been specified. * Set this attribute when you wish to format your field in accordance with a custom * date time pattern not represented by a style or ISO format. * &lt;p&gt;Note: This pattern follows the original {@link java.text.SimpleDateFormat} style, * as also supported by Joda-Time, with strict parsing semantics towards overflows * (e.g. rejecting a Feb 29 value for a non-leap-year). As a consequence, 'yy' * characters indicate a year in the traditional style, not a &quot;year-of-era&quot; as in the * {@link java.time.format.DateTimeFormatter} specification (i.e. 'yy' turns into 'uu' * when going through that {@code DateTimeFormatter} with strict resolution mode). */" />
-      <item value="You can specify whether the content of merged cells should be considered or ignored. * Default is to ignore merged cells. *" />
-      <item value="This process can be relatively slow on large sheets, so this should * normally only be called once per column, at the end of your * processing." />
-      <item value="* Set the foreground fill color represented as a {@link XSSFColor} value. * &lt;br&gt; * &lt;i&gt;Note: Ensure Foreground color is set prior to background color.&lt;/i&gt;" />
-      <item value="foreground" />
-      <item value="成员" />
-      <item value="MEDIUM" />
-      <item value="DASHED" />
-      <item value="DOTTED" />
-      <item value="THICK" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="91" />
+        <entry key="ENGLISH" value="92" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SPANISH" value="1" />
