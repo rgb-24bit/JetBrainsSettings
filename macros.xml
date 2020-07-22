@@ -1,0 +1,10 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="temp-flod">
+      <action id="EditorDown" />
+      <action id="CollapseRegion" />
+      <action id="GotoAction" />
+      <shortuct text="ENTER" />
+    </macro>
+  </component>
+</application>
