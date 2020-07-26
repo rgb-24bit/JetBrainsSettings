@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Query Threadshold" />
       <item value="dry Run Str" />
       <item value="Refresh Department Hash" />
       <item value="Sync User Employee Type" />
@@ -50,12 +51,11 @@
       <item value="resolve" />
       <item value="* Returns the name of the method containing the execution point * represented by this stack trace element. If the execution point is * contained in an instance or class initializer, this method will return * the appropriate &lt;i&gt;special method name&lt;/i&gt;, {@code &lt;init&gt;} or * {@code &lt;clinit&gt;}, as per Section 3.9 of &lt;i&gt;The Java Virtual * Machine Specification&lt;/i&gt;." />
       <item value="box superbox assert" />
-      <item value="assert" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="CHINESE" value="101" />
+        <entry key="ENGLISH" value="102" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SPANISH" value="1" />
