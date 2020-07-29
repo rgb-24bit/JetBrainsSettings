@@ -22,6 +22,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
     <keyboard-shortcut first-keystroke="shift alt semicolon" />
   </action>
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="meta d" />
+  </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
   </action>
