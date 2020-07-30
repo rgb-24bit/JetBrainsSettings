@@ -10,6 +10,11 @@
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt comma" />
+  </action>
   <action id="ChangeKeymap">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
