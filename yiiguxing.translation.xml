@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Create Calendar" />
       <item value="Get Doc Meta Data" />
       <item value="Pluck" />
       <item value="Tcc装饰器" />
@@ -50,12 +51,11 @@
       <item value="环境变量" />
       <item value="校验" />
       <item value="predecessor" />
-      <item value="preserve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="105" />
-        <entry key="ENGLISH" value="106" />
+        <entry key="CHINESE" value="106" />
+        <entry key="ENGLISH" value="107" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SPANISH" value="1" />
