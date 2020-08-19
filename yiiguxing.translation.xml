@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// If f panics, Do considers it to have returned; future calls of Do return // without calling f." />
       <item value="Get Loose Redis Client" />
       <item value="assessment" />
       <item value="Infra" />
@@ -50,12 +51,11 @@
       <item value="latency" />
       <item value="Instruments Helper" />
       <item value="Supplier" />
-      <item value="Measurement" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="112" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
