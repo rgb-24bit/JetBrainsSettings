@@ -30,6 +30,9 @@
   <action id="Compare.SameVersion">
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="meta d" />
   </action>
+  <action id="Compare.Selected">
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="meta w" />
+  </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
   </action>
