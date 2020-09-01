@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="LookupCount is a metric that returns the number of times a lookup for a given key occurred." />
+      <item value="EvacuateCount is a metric indicating the number of times an eviction occurred." />
       <item value="Insert Allocated List" />
       <item value="Get Loose Redis Client" />
       <item value="SetConnMaxLifetime sets the maximum amount of time a connection may be reused." />
@@ -49,13 +51,11 @@
       <item value="partition By Existence" />
       <item value="Folds either the left or the right side of this disjunction." />
       <item value="underlying" />
-      <item value="disjunction" />
-      <item value="emit metrics counter &amp; latency" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="115" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="CHINESE" value="117" />
+        <entry key="ENGLISH" value="118" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
