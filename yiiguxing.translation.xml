@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cache组合key" />
       <item value="Immutable indicates that this field cannot be updated." />
       <item value="Rater" />
       <item value="Invocation" />
@@ -50,11 +51,10 @@
       <item value="Desensitize Util" />
       <item value="Activation Email Info" />
       <item value="verification" />
-      <item value="Trust Login Mark" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="124" />
+        <entry key="CHINESE" value="125" />
         <entry key="ENGLISH" value="125" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
