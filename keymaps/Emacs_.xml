@@ -91,9 +91,11 @@
   <action id="JumpToLastChange" />
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl n" />
   </action>
   <action id="MethodUp">
     <keyboard-shortcut first-keystroke="ctrl alt a" />
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl p" />
   </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift alt down" />
