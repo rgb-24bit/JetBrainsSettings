@@ -5,4 +5,14 @@
       <option name="GO_FILE" value="true" />
     </context>
   </template>
+  <template name="loge" value="logrus.WithContext(ctx).WithError(err).Errorf(&quot;$END$&quot;)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GO_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="logw" value="logrus.WithContext(ctx).WithError(err).Warnf(&quot;$END$&quot;)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GO_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
