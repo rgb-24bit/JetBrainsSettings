@@ -15,7 +15,7 @@
       <option name="GO_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="iferr" value="if err != nil {&#10;    return $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+  <template name="iferr" value="if err != nil {&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="GO_STATEMENT" value="true" />
     </context>
