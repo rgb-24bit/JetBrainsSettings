@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Value" />
       <item value="避免影响打点，存在错误时返回 false 不返回 err resp" />
       <item value="get Breaker" />
       <item value="Add Account User" />
@@ -50,12 +51,11 @@
       <item value="Sync Leader Tree" />
       <item value="Sync Department Tree" />
       <item value="Sync People Department" />
-      <item value="Sync People New" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="134" />
-        <entry key="ENGLISH" value="134" />
+        <entry key="ENGLISH" value="135" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
