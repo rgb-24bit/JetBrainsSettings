@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="present" />
+      <item value="to Either" />
       <item value="Duration" />
       <item value="sample" />
       <item value="Value" />
@@ -49,13 +51,11 @@
       <item value="dispose Encrypt Field" />
       <item value="Init Tenant" />
       <item value="Auto Refresh Lark User Access Token" />
-      <item value="Dispose Old User Encrypt" />
-      <item value="Sync Leader Tree" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="136" />
-        <entry key="ENGLISH" value="137" />
+        <entry key="CHINESE" value="138" />
+        <entry key="ENGLISH" value="139" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
