@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Duration" />
       <item value="sample" />
       <item value="Value" />
       <item value="避免影响打点，存在错误时返回 false 不返回 err resp" />
@@ -50,12 +51,11 @@
       <item value="Auto Refresh Lark User Access Token" />
       <item value="Dispose Old User Encrypt" />
       <item value="Sync Leader Tree" />
-      <item value="Sync Department Tree" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="135" />
-        <entry key="ENGLISH" value="136" />
+        <entry key="CHINESE" value="136" />
+        <entry key="ENGLISH" value="137" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
