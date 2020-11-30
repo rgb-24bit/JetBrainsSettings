@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Broadcast wakes all goroutines waiting on c." />
       <item value="present" />
       <item value="to Either" />
       <item value="Duration" />
@@ -50,12 +51,11 @@
       <item value="Dispose Old Department Encrypt" />
       <item value="dispose Encrypt Field" />
       <item value="Init Tenant" />
-      <item value="Auto Refresh Lark User Access Token" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="138" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="CHINESE" value="139" />
+        <entry key="ENGLISH" value="140" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
