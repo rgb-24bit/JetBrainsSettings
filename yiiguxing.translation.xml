@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="priority Rule User Administrator" />
+      <item value="priority Rule User Member" />
       <item value="degradation Cache" />
       <item value="Broadcast wakes all goroutines waiting on c." />
       <item value="present" />
@@ -49,13 +51,11 @@
       <item value="Sync User Employee Type" />
       <item value="sync Department Staff Amount Cache" />
       <item value="Revert Lark User" />
-      <item value="Dispose Old Department Encrypt" />
-      <item value="dispose Encrypt Field" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="140" />
-        <entry key="ENGLISH" value="141" />
+        <entry key="CHINESE" value="142" />
+        <entry key="ENGLISH" value="143" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
