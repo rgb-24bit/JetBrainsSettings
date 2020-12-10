@@ -71,6 +71,8 @@
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
+  <action id="ForceStepInto" />
+  <action id="ForceStepOver" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt i" />
   </action>
@@ -150,10 +152,7 @@
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="meta l" />
   </action>
-  <action id="XDebugger.MoveWatchDown">
-    <keyboard-shortcut first-keystroke="ctrl alt e" />
-  </action>
-  <action id="XDebugger.MoveWatchUp">
-    <keyboard-shortcut first-keystroke="ctrl alt a" />
-  </action>
+  <action id="XDebugger.MoveWatchDown" />
+  <action id="XDebugger.MoveWatchUp" />
+  <action id="XDebugger.SetValue" />
 </keymap>
