@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="add Downgrade Flag" />
       <item value="spare Cache" />
+      <item value="add Downgrade Flag" />
       <item value="priority" />
       <item value="The -u flag instructs get to update modules providing dependencies of packages named on the command line to use newer minor or patch releases when available." />
       <item value="identity" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="CHINESE" value="148" />
+        <entry key="ENGLISH" value="149" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
