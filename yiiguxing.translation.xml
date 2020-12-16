@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pluck" />
       <item value="workaround go-yaml/yaml#139, and yaml.v3 may fix it" />
       <item value="spare Cache" />
       <item value="add Downgrade Flag" />
@@ -47,15 +48,14 @@
       <item value="app Leagle" />
       <item value="Create Calendar" />
       <item value="Get Doc Meta Data" />
-      <item value="Pluck" />
       <item value="Tcc装饰器" />
       <item value="refresh User Scope" />
       <item value="Leave Lark Status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="150" />
+        <entry key="ENGLISH" value="151" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
