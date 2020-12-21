@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="make" />
       <item value="Get Locked" />
       <item value="指定" />
       <item value="不关心error" />
@@ -50,7 +51,6 @@
       <item value="Infra" />
       <item value="Infra Message" />
       <item value="app Leagle" />
-      <item value="Create Calendar" />
     </histories>
     <option name="languageScores">
       <map>
