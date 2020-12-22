@@ -114,6 +114,7 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="f" />
   </action>
+  <action id="NextProjectWindow" />
   <action id="OverrideMethods">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
