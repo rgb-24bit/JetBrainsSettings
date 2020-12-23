@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Get Department Children" />
       <item value="package" />
       <item value="make" />
       <item value="Get Locked" />
@@ -50,7 +51,6 @@
       <item value="// If f panics, Do considers it to have returned; future calls of Do return // without calling f." />
       <item value="assessment" />
       <item value="Infra" />
-      <item value="Infra Message" />
     </histories>
     <option name="languageScores">
       <map>
