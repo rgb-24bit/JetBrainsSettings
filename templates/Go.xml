@@ -20,10 +20,4 @@
       <option name="GO_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="htest" value="mockService := mock.NewMockService(gomock.NewController(t))&#10;&#10;service = mockService&#10;&#10;mockService.EXPECT().$NAME$(gomock.Any()).Return(nil, nil)&#10;resp, err := $NAME$(context.Background(), license.New$NAME$Request())&#10;assert.Nil(t, err)&#10;assert.NotNil(t, resp)&#10;assert.Equal(t, int32(0), resp.BaseResp.StatusCode)&#10;&#10;mockService.EXPECT().$NAME$(gomock.Any()).Return(nil, errors.New(&quot;test&quot;))&#10;resp, err = $NAME$(context.Background(), license.New$NAME$Request())&#10;assert.Nil(t, err)&#10;assert.NotNil(t, resp)&#10;assert.NotEqual(t, int32(0), resp.BaseResp.StatusCode)" toReformat="true" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="GO_STATEMENT" value="true" />
-    </context>
-  </template>
 </templateSet>
