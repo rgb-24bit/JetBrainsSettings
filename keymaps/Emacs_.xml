@@ -143,21 +143,17 @@
   <action id="SynchronizeCurrentFile">
     <keyboard-shortcut first-keystroke="escape" second-keystroke="u" />
   </action>
-  <action id="TabShiftActions.MoveFocusDown">
-    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="down" />
-  </action>
-  <action id="TabShiftActions.MoveFocusLeft">
+  <action id="TabShiftActions.MoveFocusDown" />
+  <action id="TabShiftActions.MoveFocusLeft" />
+  <action id="TabShiftActions.MoveFocusRight" />
+  <action id="TabShiftActions.MoveFocusUp" />
+  <action id="TabShiftActions.ShiftDown" />
+  <action id="TabShiftActions.ShiftLeft">
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="left" />
   </action>
-  <action id="TabShiftActions.MoveFocusRight">
+  <action id="TabShiftActions.ShiftRight">
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="right" />
   </action>
-  <action id="TabShiftActions.MoveFocusUp">
-    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="up" />
-  </action>
-  <action id="TabShiftActions.ShiftDown" />
-  <action id="TabShiftActions.ShiftLeft" />
-  <action id="TabShiftActions.ShiftRight" />
   <action id="TabShiftActions.ShiftUp" />
   <action id="TabShiftActions.StretchLeft" />
   <action id="TabShiftActions.StretchRight" />
