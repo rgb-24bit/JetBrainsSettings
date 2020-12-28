@@ -20,7 +20,7 @@
       <option name="GO_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="dtest" value="mockSaaS(&quot;$METHOD$&quot;, &amp;saas.$METHOD$Response{}, terr)&#10;_, err := mockSaaSClient.$DO$(ctx, &quot;&quot;, &quot;&quot;, 2)&#10;assert.EqualError(t, err, terr.Error())&#10;&#10;mockSaaS(&quot;$METHOD$&quot;, &amp;saas.$METHOD$Response{&#10;&#9;BaseResp: &amp;base.BaseResp{StatusCode: 1},&#10;}, nil)&#10;_, err = mockSaaSClient.$DO$(ctx, &quot;&quot;, &quot;&quot;, 2)&#10;assert.NotNil(t, err)&#10;&#10;mockSaaS(&quot;$METHOD$&quot;, &amp;saas.$METHOD$Response{&#10;&#9;BaseResp: &amp;base.BaseResp{StatusCode: 0},&#10;}, nil)&#10;res, err := mockSaaSClient.$DO$(ctx, &quot;&quot;, &quot;&quot;, 2)&#10;assert.NotNil(t, res)&#10;assert.Nil(t, err)" toReformat="false" toShortenFQNames="true">
+  <template name="dtest" value="mockSaaS(&quot;$METHOD$&quot;, &amp;saas.$METHOD$Response{}, terr)&#10;_, err := mockSaaSClient.$DO$(ctx, &quot;&quot;, &quot;&quot;, 2)&#10;assert.EqualError(t, err, terr.Error())&#10;&#10;mockSaaS(&quot;$METHOD$&quot;, &amp;saas.$METHOD$Response{&#10;&#9;BaseResp: &amp;base.BaseResp{StatusCode: 1},&#10;}, nil)&#10;_, err = mockSaaSClient.$DO$(ctx, &quot;&quot;, &quot;&quot;, 2)&#10;assert.NotNil(t, err)&#10;&#10;mockSaaS(&quot;$METHOD$&quot;, &amp;saas.$METHOD$Response{&#10;&#9;BaseResp: &amp;base.BaseResp{StatusCode: 0},&#10;}, nil)&#10;res, err := mockSaaSClient.$DO$(ctx, &quot;&quot;, &quot;&quot;, 2)&#10;assert.NotNil(t, res)&#10;assert.Nil(t, err)" description="" toReformat="false" toShortenFQNames="true">
     <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="DO" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
