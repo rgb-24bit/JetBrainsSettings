@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Always rewind the request body when non-nil." />
       <item value="If CheckRedirect is nil, the Client uses its default policy, // which is to stop after 10 consecutive requests." />
       <item value="Try Lock And Handle Once" />
       <item value="Associate Tags" />
@@ -50,12 +51,11 @@
       <item value="至少需要一个parser" />
       <item value="addressable" />
       <item value="实现" />
-      <item value="cache组合key" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="167" />
-        <entry key="ENGLISH" value="168" />
+        <entry key="CHINESE" value="168" />
+        <entry key="ENGLISH" value="169" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
