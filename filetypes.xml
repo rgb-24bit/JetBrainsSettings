@@ -4,9 +4,9 @@
       <mapping ext="tmpl" type="Go template" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="task" type="PLAIN_TEXT" />
       <mapping pattern="try" type="PLAIN_TEXT" />
       <mapping pattern="suprise" type="PLAIN_TEXT" />
+      <mapping pattern="task" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
