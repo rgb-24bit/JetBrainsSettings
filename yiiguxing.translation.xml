@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Upsert Job Level" />
       <item value="watcher interval must rather than 0" />
       <item value="watcher interval must rather 0" />
       <item value="to Update Record Silently" />
@@ -50,12 +51,11 @@
       <item value="precision" />
       <item value="must Expire" />
       <item value="永久" />
-      <item value="expireSeconds &lt;= 0 means no expire, // but it can be evicted when cache is full." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="172" />
-        <entry key="ENGLISH" value="173" />
+        <entry key="CHINESE" value="173" />
+        <entry key="ENGLISH" value="174" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
