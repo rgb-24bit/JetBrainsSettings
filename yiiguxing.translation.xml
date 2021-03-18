@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="syncer" />
       <item value="Upsert Job Level" />
       <item value="watcher interval must rather than 0" />
       <item value="watcher interval must rather 0" />
@@ -50,7 +51,6 @@
       <item value="Add Account User" />
       <item value="precision" />
       <item value="must Expire" />
-      <item value="永久" />
     </histories>
     <option name="languageScores">
       <map>
