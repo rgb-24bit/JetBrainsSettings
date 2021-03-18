@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="rs" type="Android RenderScript" />
       <mapping ext="tmpl" type="Go template" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
@@ -8,6 +9,7 @@
       <mapping pattern="suprise" type="PLAIN_TEXT" />
       <mapping pattern="task" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
+      <mapping ext="rs" type="Rust" />
     </extensionMap>
   </component>
 </application>
