@@ -63,7 +63,6 @@
   </action>
   <action id="EditorSplitLine" />
   <action id="EditorToggleCase">
-    <keyboard-shortcut first-keystroke="meta u" />
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
   <action id="EditorUnSelectWord">
@@ -145,6 +144,9 @@
   <action id="ShowUmlDiagramPopup" />
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
+  </action>
+  <action id="StringManipulation.SwitchStyleAction">
+    <keyboard-shortcut first-keystroke="meta u" />
   </action>
   <action id="SynchronizeCurrentFile">
     <keyboard-shortcut first-keystroke="escape" second-keystroke="u" />
