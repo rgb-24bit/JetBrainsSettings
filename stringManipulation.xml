@@ -21,6 +21,9 @@
                 <option name="style" value="SNAKE_CASE" />
               </Step>
               <Step>
+                <option name="style" value="PASCAL_CASE" />
+              </Step>
+              <Step>
                 <option name="style" value="CAMEL_CASE" />
               </Step>
               <Step>
@@ -48,9 +51,6 @@
               <Step>
                 <option name="enabled" value="false" />
                 <option name="style" value="WORD_CAPITALIZED" />
-              </Step>
-              <Step>
-                <option name="style" value="PASCAL_CASE" />
               </Step>
             </list>
           </option>
