@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="この処理が本当に必要かは今後検討" />
       <item value="exponents" />
       <item value="Get Subordinate ID Cache" />
       <item value="user Nationality I Ds" />
@@ -50,7 +51,6 @@
       <item value="present" />
       <item value="to Either" />
       <item value="Duration" />
-      <item value="sample" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,6 +62,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
+        <entry key="JAPANESE" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
