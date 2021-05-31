@@ -81,6 +81,9 @@
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="meta p" />
   </action>
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="alt r" />
+  </action>
   <action id="GotoCustomRegion" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl alt g" />
