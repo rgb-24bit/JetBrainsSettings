@@ -55,6 +55,10 @@
     <keyboard-shortcut first-keystroke="alt w" />
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
   <action id="EditorNextWordWithSelection" />
   <action id="EditorPreviousWordWithSelection" />
   <action id="EditorSelectWord">
@@ -103,6 +107,9 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="JumpToLastChange" />
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="alt m" second-keystroke="p" />
+  </action>
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl n" />
@@ -182,5 +189,8 @@
   <action id="XDebugger.MoveWatchDown" />
   <action id="XDebugger.MoveWatchUp" />
   <action id="XDebugger.SetValue" />
+  <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
+    <keyboard-shortcut first-keystroke="shift alt m" />
+  </action>
   <action id="tabshifter.Actions.EqualSizeSplit" />
 </keymap>
