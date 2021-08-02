@@ -87,6 +87,7 @@
   </action>
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="alt r" />
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="meta r" />
   </action>
   <action id="GotoCustomRegion" />
   <action id="GotoDeclaration">
