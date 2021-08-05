@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="abnormal" />
       <item value="Born Timestamp" />
       <item value="この処理が本当に必要かは今後検討" />
       <item value="exponents" />
@@ -50,7 +51,6 @@
       <item value="degradation Cache" />
       <item value="Broadcast wakes all goroutines waiting on c." />
       <item value="present" />
-      <item value="to Either" />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,7 +68,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624260679916" />
+    <option name="lastTrimTime" value="1628149423197" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
