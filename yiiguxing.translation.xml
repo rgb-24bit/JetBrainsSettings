@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Search Consultant Authorization" />
       <item value="department strand" />
       <item value="abnormal" />
       <item value="Born Timestamp" />
@@ -50,7 +51,6 @@
       <item value="priority Rule User Administrator" />
       <item value="priority Rule User Member" />
       <item value="degradation Cache" />
-      <item value="Broadcast wakes all goroutines waiting on c." />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,7 +68,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628149423197" />
+    <option name="lastTrimTime" value="1632985400622" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
