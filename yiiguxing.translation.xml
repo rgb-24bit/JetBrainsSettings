@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="diagnosis" />
       <item value="rely" />
       <item value="Search Consultant Authorization" />
       <item value="department strand" />
@@ -50,7 +51,6 @@
       <item value="The -u flag instructs get to update modules providing dependencies of packages named on the command line to use newer minor or patch releases when available." />
       <item value="identity" />
       <item value="priority Rule User Administrator" />
-      <item value="priority Rule User Member" />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,7 +68,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1641377182934" />
+    <option name="lastTrimTime" value="1642991021642" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
