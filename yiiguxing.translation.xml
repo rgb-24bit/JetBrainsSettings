@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="build Create Trade Description" />
+      <item value="execute Instance Create Stage" />
       <item value="rely list" />
       <item value="occupy all" />
       <item value="diagnosis" />
@@ -49,8 +51,6 @@
       <item value="workaround go-yaml/yaml#139, and yaml.v3 may fix it" />
       <item value="spare Cache" />
       <item value="add Downgrade Flag" />
-      <item value="priority" />
-      <item value="The -u flag instructs get to update modules providing dependencies of packages named on the command line to use newer minor or patch releases when available." />
     </histories>
     <option name="languageScores">
       <map>
