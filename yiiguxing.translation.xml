@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="grains" />
       <item value="topology" />
       <item value="build Create Trade Description" />
       <item value="execute Instance Create Stage" />
@@ -50,7 +51,6 @@
       <item value="SetHistogramTimer sets timer use histogram to pre-aggregate timer instead." />
       <item value="Pluck" />
       <item value="workaround go-yaml/yaml#139, and yaml.v3 may fix it" />
-      <item value="spare Cache" />
     </histories>
     <option name="languageScores">
       <map>
