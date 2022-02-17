@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="certificate" />
       <item value="ResponseHeaderTimeout, if non-zero, specifies the amount of time to wait for a server's response headers after fully writing the request (including its body, if any). This time does not include the time to read the response body. ResponseHeaderTimeout time.Duration" />
       <item value="grains" />
       <item value="topology" />
@@ -50,7 +51,6 @@
       <item value="指定" />
       <item value="不关心error" />
       <item value="SetHistogramTimer sets timer use histogram to pre-aggregate timer instead." />
-      <item value="Pluck" />
     </histories>
     <option name="languageScores">
       <map>
