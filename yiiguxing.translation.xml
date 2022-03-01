@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mostResourceScorer favors nodes with most requested resources." />
+      <item value="favors" />
       <item value="present" />
       <item value="certificate" />
       <item value="ResponseHeaderTimeout, if non-zero, specifies the amount of time to wait for a server's response headers after fully writing the request (including its body, if any). This time does not include the time to read the response body. ResponseHeaderTimeout time.Duration" />
@@ -49,8 +51,6 @@
       <item value="package" />
       <item value="make" />
       <item value="Get Locked" />
-      <item value="指定" />
-      <item value="不关心error" />
     </histories>
     <option name="languageScores">
       <map>
