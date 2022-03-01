@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="It calculates the percentage of memory and CPU requested by pods scheduled on the node, and prioritizes based on the maximum of the average of the fraction of requested to capacity." />
       <item value="mostResourceScorer favors nodes with most requested resources." />
       <item value="favors" />
       <item value="present" />
@@ -50,7 +51,6 @@
       <item value="Get Department Children" />
       <item value="package" />
       <item value="make" />
-      <item value="Get Locked" />
     </histories>
     <option name="languageScores">
       <map>
