@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This format is intended to make it difficult to use these numbers without writing some sort of special handling code in the hopes that that will cause implementors to also use a fixed point implementation." />
+      <item value="Non-canonical values will still parse as long as they are well formed, but will be re-emitted in their canonical form. (So always use canonical form, or don't diff.)" />
+      <item value="Note that the quantity will NEVER be internally represented by a floating point number. That is the whole point of this exercise." />
+      <item value="The exponent (or suffix) is as large as possible." />
+      <item value="No fractional digits will be emitted" />
+      <item value="No precision is lost" />
+      <item value="canonical form" />
+      <item value="binary SI" />
+      <item value="Quantity is a fixed-point representation of a number." />
       <item value="It calculates the percentage of memory and CPU requested by pods scheduled on the node, and prioritizes based on the maximum of the average of the fraction of requested to capacity." />
       <item value="mostResourceScorer favors nodes with most requested resources." />
       <item value="favors" />
@@ -42,15 +51,6 @@
       <item value="reallocate" />
       <item value="collisions" />
       <item value="Del Misses" />
-      <item value="Collisions" />
-      <item value="L Push" />
-      <item value="Assignable To" />
-      <item value="simultaneously" />
-      <item value="transaction" />
-      <item value="dial Timeout" />
-      <item value="Get Department Children" />
-      <item value="package" />
-      <item value="make" />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,7 +68,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1645783148815" />
+    <option name="lastTrimTime" value="1646390487634" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
