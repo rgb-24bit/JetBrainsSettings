@@ -1,6 +1,7 @@
 <application>
   <component name="OrchideApplication">
     <option name="fileTypePatternMigratedForCollections" value="true" />
+    <option name="orchidePluginShowDeprecationMessage201" value="false" />
     <option name="hasEULAAccepted" value="true" />
   </component>
 </application>
