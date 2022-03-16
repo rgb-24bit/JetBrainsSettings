@@ -7,6 +7,7 @@
       <language id="JavaScript" />
       <language id="Vue" />
       <language id="kotlin" />
+      <language id="go" />
       <language id="Groovy" />
       <language id="SQL" />
     </disabledLanguages>
