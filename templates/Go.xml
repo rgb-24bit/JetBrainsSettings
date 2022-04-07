@@ -1,5 +1,5 @@
 <templateSet group="Go">
-  <template name="ginkgo" value="import &#9;. &quot;github.com/onsi/ginkgo&quot;&#10;&#10;var _ = Describe(&quot;$NAME$&quot;, func() {&#10;&#9;t := GinkgoT()&#10;&#9;&#10;&#9;$END$&#10;})" description="Ginkgo test template" toReformat="true" toShortenFQNames="true">
+  <template name="ginkgo" value="import &#9;. &quot;github.com/onsi/ginkgo/v2&quot;&#10;&#10;var _ = Describe(&quot;$NAME$&quot;, func() {&#10;&#9;t := GinkgoT()&#10;&#9;&#10;&#9;$END$&#10;})" description="Ginkgo test template" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GO_FILE" value="true" />

@@ -3,122 +3,6 @@
     <option name="deletedKeys">
       <list>
         <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_if" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_elif" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_select" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_case" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_for" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_while" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_until" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_function" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_string equal" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_string not equal" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_string is empty" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_string not empty" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_number equal" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_number not equal" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_number less" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_number less or equal" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_number greater" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_number greater or equal" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_file exists" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_file not empty" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_file readable" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_file writable" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_file executable" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_file equals" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_file newer" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_file older" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_path exists" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_directory exists" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_command exists" />
-        </TemplateKey>
-        <TemplateKey>
           <option name="groupName" value="VgoHiddenTemplate" />
           <option name="key" value="vgo_lang_require" />
         </TemplateKey>
@@ -243,48 +127,140 @@
           <option name="key" value="template_type_hint_comment" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="jsf" />
-          <option name="key" value="tldTag" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_meth" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="jsf" />
-          <option name="key" value="tldFunction" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="test" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="jsf" />
-          <option name="key" value="uicomponent" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="bench" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="jsf" />
-          <option name="key" value="jsfconverter" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="forbN" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="jsf" />
-          <option name="key" value="navrule" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="fuzz" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="jsf" />
-          <option name="key" value="refbean" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_if" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="jsf" />
-          <option name="key" value="renderkit" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_elif" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="jsf" />
-          <option name="key" value="jsfvalidator" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_select" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="jsf" />
-          <option name="key" value="propertybean" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_case" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="jsf" />
-          <option name="key" value="mapentriesbean" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_for" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="jsf" />
-          <option name="key" value="listentriesbean" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_while" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_until" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_function" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string not equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string is empty" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string not empty" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number not equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number less" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number less or equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number greater" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number greater or equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file exists" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file not empty" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file readable" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file writable" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file executable" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file equals" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file newer" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file older" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_path exists" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_directory exists" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_command exists" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="spring" />
@@ -521,6 +497,50 @@
         <TemplateKey>
           <option name="groupName" value="Spring Dynamic Modules" />
           <option name="key" value="osgisetwithcomparator" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="tldTag" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="tldFunction" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="uicomponent" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="jsfconverter" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="navrule" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="refbean" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="renderkit" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="jsfvalidator" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="propertybean" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="mapentriesbean" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="listentriesbean" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="spring" />
