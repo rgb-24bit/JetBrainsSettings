@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pod-scheduled-by-overcommit-scheduler" />
       <item value="Handle Pod Reconcile" />
       <item value="UntilWithContext is syntactic sugar on top of JitterUntilWithContext with zero jitter factor and with sliding = true (which means the timer for period starts after the f completes)." />
       <item value="PercentageOfNodesToScore is the percentage of all nodes that once found feasible for running a pod, the scheduler stops its search for more feasible nodes in the cluster." />
@@ -50,12 +51,11 @@
       <item value="Try Lock And Handle Once" />
       <item value="Associate Tags" />
       <item value="Hand Message" />
-      <item value="Observe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="181" />
-        <entry key="ENGLISH" value="182" />
+        <entry key="CHINESE" value="182" />
+        <entry key="ENGLISH" value="183" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
