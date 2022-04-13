@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PercentageOfNodesToScore is the percentage of all nodes that once found feasible for running a pod, the scheduler stops its search for more feasible nodes in the cluster. This helps improve scheduler's performance. Scheduler always tries to find at least &quot;minFeasibleNodesToFind&quot; feasible nodes no matter what the value of this flag is. Example: if the cluster size is 500 nodes and the value of this flag is 30, then scheduler stops finding further feasible nodes once it finds 150 feasible ones. When the value is 0, default percentage (5%--50% based on the size of the cluster) of the nodes will be scored." />
       <item value="pod-scheduled-by-overcommit-scheduler" />
       <item value="Handle Pod Reconcile" />
       <item value="UntilWithContext is syntactic sugar on top of JitterUntilWithContext with zero jitter factor and with sliding = true (which means the timer for period starts after the f completes)." />
@@ -50,12 +51,11 @@
       <item value="If CheckRedirect is nil, the Client uses its default policy, // which is to stop after 10 consecutive requests." />
       <item value="Try Lock And Handle Once" />
       <item value="Associate Tags" />
-      <item value="Hand Message" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="182" />
-        <entry key="ENGLISH" value="183" />
+        <entry key="CHINESE" value="183" />
+        <entry key="ENGLISH" value="184" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
@@ -68,6 +68,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649249736472" />
+    <option name="lastTrimTime" value="1649835248685" />
   </component>
 </application>
