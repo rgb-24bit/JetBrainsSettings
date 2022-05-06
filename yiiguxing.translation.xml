@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Periodically call m.reconcileState() to continue to keep the CPU sets of all pods in sync with and guaranteed CPUs handed out among them." />
       <item value="Backoff Until" />
       <item value="Get Newest Version Set" />
       <item value="does not provide any data protection, as all plugins are assumed to be trusted." />
@@ -50,12 +51,11 @@
       <item value="user Nationality I Ds" />
       <item value="Geographic Country" />
       <item value="Send License Not Sufficient" />
-      <item value="dial Conn" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="194" />
-        <entry key="ENGLISH" value="194" />
+        <entry key="ENGLISH" value="195" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
