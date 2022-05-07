@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Birth Cry" />
       <item value="initialNode constructs the initial v1.Node for this Kubelet, incorporating node labels, information from the cloud provider, and Kubelet configuration." />
       <item value="processLoop drains the work queue." />
       <item value="dummy Controller" />
@@ -50,12 +51,11 @@
       <item value="Born Timestamp" />
       <item value="この処理が本当に必要かは今後検討" />
       <item value="exponents" />
-      <item value="Get Subordinate ID Cache" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="197" />
-        <entry key="ENGLISH" value="198" />
+        <entry key="CHINESE" value="198" />
+        <entry key="ENGLISH" value="199" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
