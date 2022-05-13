@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="AddNominatedPod adds the given pod to the nominator or updates it if it already exists." />
+      <item value="Add Nominated Pod" />
       <item value="Update the scheduling queue with the nominated pod information." />
       <item value="expunged" />
       <item value="gather" />
@@ -49,13 +51,11 @@
       <item value="occupy all" />
       <item value="diagnosis" />
       <item value="rely" />
-      <item value="Search Consultant Authorization" />
-      <item value="department strand" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="202" />
-        <entry key="ENGLISH" value="203" />
+        <entry key="CHINESE" value="204" />
+        <entry key="ENGLISH" value="205" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
