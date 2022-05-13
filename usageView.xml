@@ -7,6 +7,5 @@
   </component>
   <component name="UsageFilteringRuleState">
     <option value="com.intellij.usages.impl.rules.UsageInGeneratedCodeFilteringRule" />
-    <option value="com.intellij.usages.impl.rules.WriteAccessFilteringRule" />
   </component>
 </application>

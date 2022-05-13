@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="podBackoffQ is a heap ordered by backoff expiry. Pods which have completed backoff are popped from this heap before the scheduler looks at activeQ" />
+      <item value="unschedulablePods holds pods that have been tried and determined unschedulable." />
       <item value="assumed" />
       <item value="Queue Sort Func" />
       <item value="AddNominatedPod adds the given pod to the nominator or updates it if it already exists." />
@@ -49,13 +51,11 @@
       <item value="topology" />
       <item value="build Create Trade Description" />
       <item value="execute Instance Create Stage" />
-      <item value="rely list" />
-      <item value="occupy all" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="206" />
-        <entry key="ENGLISH" value="207" />
+        <entry key="CHINESE" value="208" />
+        <entry key="ENGLISH" value="209" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
