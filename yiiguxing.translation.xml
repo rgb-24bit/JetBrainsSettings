@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="New Pod Nominator" />
+      <item value="broadcaster" />
       <item value="podBackoffQ is a heap ordered by backoff expiry. Pods which have completed backoff are popped from this heap before the scheduler looks at activeQ" />
       <item value="unschedulablePods holds pods that have been tried and determined unschedulable." />
       <item value="assumed" />
@@ -49,13 +51,11 @@
       <item value="ResponseHeaderTimeout, if non-zero, specifies the amount of time to wait for a server's response headers after fully writing the request (including its body, if any). This time does not include the time to read the response body. ResponseHeaderTimeout time.Duration" />
       <item value="grains" />
       <item value="topology" />
-      <item value="build Create Trade Description" />
-      <item value="execute Instance Create Stage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="208" />
-        <entry key="ENGLISH" value="209" />
+        <entry key="CHINESE" value="210" />
+        <entry key="ENGLISH" value="210" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
@@ -65,6 +65,7 @@
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="1" />
         <entry key="SPANISH" value="1" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
