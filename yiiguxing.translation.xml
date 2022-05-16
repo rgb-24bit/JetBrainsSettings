@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NOTE: this function assumes lock has been acquired in caller." />
+      <item value="Leftover" />
       <item value="Nominator" />
       <item value="New Pod Nominator" />
       <item value="broadcaster" />
@@ -49,13 +51,11 @@
       <item value="favors" />
       <item value="present" />
       <item value="certificate" />
-      <item value="ResponseHeaderTimeout, if non-zero, specifies the amount of time to wait for a server's response headers after fully writing the request (including its body, if any). This time does not include the time to read the response body. ResponseHeaderTimeout time.Duration" />
-      <item value="grains" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="210" />
-        <entry key="ENGLISH" value="211" />
+        <entry key="CHINESE" value="212" />
+        <entry key="ENGLISH" value="213" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
