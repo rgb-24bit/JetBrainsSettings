@@ -10,6 +10,7 @@
       <mapping pattern="suprise" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
+      <mapping ext="gv" type="dot file" />
       <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
       <mapping ext="tmpl" type="Go template" />
     </extensionMap>
