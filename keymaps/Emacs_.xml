@@ -8,6 +8,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
   </action>
   <action id="AceLineAction" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta m" second-keystroke="quote" />
+  </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="meta a" />
   </action>
