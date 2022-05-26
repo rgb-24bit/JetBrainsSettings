@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Resync is meaningless in the terms appearing here but has meaning in some implementations that have non-trivial additional behavior (e.g., DeltaFIFO)." />
       <item value="belong To Service" />
       <item value="reconcile" />
       <item value="setup Reconcilers" />
@@ -50,12 +51,11 @@
       <item value="canonical form" />
       <item value="binary SI" />
       <item value="Quantity is a fixed-point representation of a number." />
-      <item value="It calculates the percentage of memory and CPU requested by pods scheduled on the node, and prioritizes based on the maximum of the average of the fraction of requested to capacity." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="216" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="217" />
+        <entry key="ENGLISH" value="218" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652875172019" />
+    <option name="lastTrimTime" value="1653568980022" />
   </component>
 </application>
