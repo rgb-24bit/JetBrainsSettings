@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pull" />
+      <item value="poll" />
+      <item value="poll From Infra" />
       <item value="If the host in the address parameter is not a literal IP address or the port is not a literal port number, ResolveTCPAddr resolves the address to an address of TCP end point." />
       <item value="Resync is meaningless in the terms appearing here but has meaning in some implementations that have non-trivial additional behavior (e.g., DeltaFIFO)." />
       <item value="belong To Service" />
@@ -48,14 +51,11 @@
       <item value="Note that the quantity will NEVER be internally represented by a floating point number. That is the whole point of this exercise." />
       <item value="The exponent (or suffix) is as large as possible." />
       <item value="No fractional digits will be emitted" />
-      <item value="No precision is lost" />
-      <item value="canonical form" />
-      <item value="binary SI" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="218" />
-        <entry key="ENGLISH" value="219" />
+        <entry key="CHINESE" value="221" />
+        <entry key="ENGLISH" value="222" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
