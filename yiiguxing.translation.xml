@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If the host in the address parameter is not a literal IP address or the port is not a literal port number, ResolveTCPAddr resolves the address to an address of TCP end point." />
       <item value="Resync is meaningless in the terms appearing here but has meaning in some implementations that have non-trivial additional behavior (e.g., DeltaFIFO)." />
       <item value="belong To Service" />
       <item value="reconcile" />
@@ -50,12 +51,11 @@
       <item value="No precision is lost" />
       <item value="canonical form" />
       <item value="binary SI" />
-      <item value="Quantity is a fixed-point representation of a number." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
-        <entry key="ENGLISH" value="218" />
+        <entry key="CHINESE" value="218" />
+        <entry key="ENGLISH" value="219" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653568980022" />
+    <option name="lastTrimTime" value="1654151898118" />
   </component>
 </application>
