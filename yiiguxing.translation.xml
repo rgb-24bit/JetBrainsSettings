@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="recovery Config Map" />
       <item value="unknown" />
       <item value="specifying a root certificates file with the insecure flag is not allowed" />
       <item value="Get" />
@@ -50,12 +51,11 @@
       <item value="UntilWithContext is syntactic sugar on top of JitterUntilWithContext with zero jitter factor and with sliding = true (which means the timer for period starts after the f completes)." />
       <item value="PercentageOfNodesToScore is the percentage of all nodes that once found feasible for running a pod, the scheduler stops its search for more feasible nodes in the cluster." />
       <item value="This format is intended to make it difficult to use these numbers without writing some sort of special handling code in the hopes that that will cause implementors to also use a fixed point implementation." />
-      <item value="Non-canonical values will still parse as long as they are well formed, but will be re-emitted in their canonical form. (So always use canonical form, or don't diff.)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="226" />
-        <entry key="ENGLISH" value="227" />
+        <entry key="CHINESE" value="227" />
+        <entry key="ENGLISH" value="228" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
