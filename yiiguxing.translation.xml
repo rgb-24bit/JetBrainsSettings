@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="AssignedPodAdd is the event when a pod is added that causes pods with matching affinity terms" />
       <item value="AssignedPodAdded is called when a bound pod is added. Creation of this pod may make pending pods with matching affinity terms schedulable." />
       <item value="backoffQ holds pods that moved from unschedulablePods and will move to activeQ when their backoff periods complete." />
       <item value="If true, the command will be executed through the shell." />
@@ -50,12 +51,11 @@
       <item value="does not provide any data protection, as all plugins are assumed to be trusted." />
       <item value="stored by one plugin can be read, altered, or deleted by another plugin." />
       <item value="arbitrary" />
-      <item value="ephemeral" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="236" />
-        <entry key="ENGLISH" value="237" />
+        <entry key="CHINESE" value="237" />
+        <entry key="ENGLISH" value="238" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
