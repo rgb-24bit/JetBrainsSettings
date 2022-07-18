@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="backoffQ holds pods that moved from unschedulablePods and will move to activeQ when their backoff periods complete." />
       <item value="If true, the command will be executed through the shell." />
       <item value="context" />
       <item value="If Stdout and Stderr are the same writer, and have a type that can be compared with ==, at most one goroutine at a time will call Write." />
@@ -50,12 +51,11 @@
       <item value="arbitrary" />
       <item value="ephemeral" />
       <item value="Represents a source location of a volume to mount, managed by an external CSI driver" />
-      <item value="bound Claims" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="233" />
-        <entry key="ENGLISH" value="234" />
+        <entry key="CHINESE" value="234" />
+        <entry key="ENGLISH" value="235" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656398911076" />
+    <option name="lastTrimTime" value="1658131340294" />
   </component>
 </application>
