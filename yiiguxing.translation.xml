@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dial" />
       <item value="保留旧值并标记重试" />
       <item value="IsResourceExpired is true if the error indicates the resource has expired and the current action is no longer possible." />
       <item value="IsGone is true if the error indicates the requested resource is no longer available. It supports wrapped errors and returns false when the error is nil." />
@@ -50,12 +51,11 @@
       <item value="Birth Cry" />
       <item value="initialNode constructs the initial v1.Node for this Kubelet, incorporating node labels, information from the cloud provider, and Kubelet configuration." />
       <item value="processLoop drains the work queue." />
-      <item value="dummy Controller" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="244" />
-        <entry key="ENGLISH" value="244" />
+        <entry key="ENGLISH" value="245" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663554334804" />
+    <option name="lastTrimTime" value="1665381788315" />
   </component>
 </application>
