@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="updates set s with the intersection of itself and set other." />
       <item value="Dialer" />
       <item value="Performing multiple connect system calls on a non-blocking socket under Unix variants does not necessarily result in earlier errors being returned. Instead, once runtime-integrated network poller tells us that the socket is ready, get the SO_ERROR socket option to see if the connection succeeded or failed. See issue 7474 for further details." />
       <item value="Dial" />
@@ -50,12 +51,11 @@
       <item value="expunged" />
       <item value="gather" />
       <item value="assume" />
-      <item value="Birth Cry" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="246" />
-        <entry key="ENGLISH" value="246" />
+        <entry key="ENGLISH" value="247" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1665381788315" />
+    <option name="lastTrimTime" value="1666336432400" />
   </component>
 </application>
