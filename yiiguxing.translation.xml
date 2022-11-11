@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scene" />
       <item value="stage %s skipped by predicate result" />
       <item value="stage %s skipped by predicate" />
       <item value="only create sys service &amp; sys cidr, no secret" />
@@ -50,12 +51,11 @@
       <item value="assumed" />
       <item value="Queue Sort Func" />
       <item value="AddNominatedPod adds the given pod to the nominator or updates it if it already exists." />
-      <item value="Update the scheduling queue with the nominated pod information." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="249" />
-        <entry key="ENGLISH" value="250" />
+        <entry key="CHINESE" value="250" />
+        <entry key="ENGLISH" value="251" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
