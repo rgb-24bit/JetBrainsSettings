@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dimension" />
       <item value="scene" />
       <item value="stage %s skipped by predicate result" />
       <item value="stage %s skipped by predicate" />
@@ -50,12 +51,11 @@
       <item value="unschedulablePods holds pods that have been tried and determined unschedulable." />
       <item value="assumed" />
       <item value="Queue Sort Func" />
-      <item value="AddNominatedPod adds the given pod to the nominator or updates it if it already exists." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="250" />
-        <entry key="ENGLISH" value="251" />
+        <entry key="CHINESE" value="251" />
+        <entry key="ENGLISH" value="252" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1668078939305" />
+    <option name="lastTrimTime" value="1668673429719" />
   </component>
 </application>
