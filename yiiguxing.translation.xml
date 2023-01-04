@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="authorize" />
       <item value="Dimension" />
       <item value="scene" />
       <item value="stage %s skipped by predicate result" />
@@ -50,12 +51,11 @@
       <item value="podBackoffQ is a heap ordered by backoff expiry. Pods which have completed backoff are popped from this heap before the scheduler looks at activeQ" />
       <item value="unschedulablePods holds pods that have been tried and determined unschedulable." />
       <item value="assumed" />
-      <item value="Queue Sort Func" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="251" />
-        <entry key="ENGLISH" value="252" />
+        <entry key="CHINESE" value="252" />
+        <entry key="ENGLISH" value="253" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1668673429719" />
+    <option name="lastTrimTime" value="1672815363615" />
   </component>
 </application>
