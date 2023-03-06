@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Exec" />
       <item value="reset Timer" />
       <item value="For a Timer created with AfterFunc(d, f), Reset either reschedules when f will run, in which case Reset returns true, or schedules f to run again, in which case it returns false." />
       <item value="Dyn Logger" />
@@ -50,12 +51,11 @@
       <item value="'regarding' is the object this event is about. Event will make a reference-- or you may also pass a reference to the object directly." />
       <item value="NOTE: this function assumes lock has been acquired in caller." />
       <item value="Leftover" />
-      <item value="Nominator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="257" />
-        <entry key="ENGLISH" value="258" />
+        <entry key="CHINESE" value="258" />
+        <entry key="ENGLISH" value="259" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1676269248113" />
+    <option name="lastTrimTime" value="1678083711553" />
   </component>
 </application>
