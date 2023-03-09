@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="meter" />
       <item value="Create" />
       <item value="Exec" />
       <item value="reset Timer" />
@@ -50,12 +51,11 @@
       <item value="reconcile" />
       <item value="setup Reconcilers" />
       <item value="'regarding' is the object this event is about. Event will make a reference-- or you may also pass a reference to the object directly." />
-      <item value="NOTE: this function assumes lock has been acquired in caller." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="259" />
-        <entry key="ENGLISH" value="260" />
+        <entry key="CHINESE" value="260" />
+        <entry key="ENGLISH" value="261" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
