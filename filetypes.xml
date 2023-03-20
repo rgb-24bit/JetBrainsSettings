@@ -10,7 +10,6 @@
       <mapping pattern="try" type="PLAIN_TEXT" />
       <mapping pattern="suprise" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
-      <mapping ext="qrc" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
